@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm PUSHKAR RANJAN </h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="centre" alt="Coding" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=format,compress&amp;gif-q=60&amp;format=webm" width="500">
+<img align="centre" alt="Coding" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=format,compress&amp;gif-q=60&amp;format=webm" width="600">
 
 <h3 align="left">💫 About Me:</h3>
 
